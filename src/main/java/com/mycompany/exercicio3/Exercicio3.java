@@ -21,8 +21,7 @@ public class Exercicio3 {
         
         resultado = numero1 + numero2;
         
-        System.out.print("O resultado da soma é: ");
-        System.out.print(resultado);
+        System.out.print("O resultado da soma é: " + resultado);
         
         
     }
